@@ -83,6 +83,8 @@
 
 ## git branch (имя ветки)
 
+Создание ветки
+
 ## git branch -d (имя ветки)
 
 ## git checkout (имя ветик)
