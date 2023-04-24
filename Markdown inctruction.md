@@ -79,3 +79,12 @@
 
 Возврат в ветке master
 
+## git branch
+
+## git branch (имя ветки)
+
+## git branch -d (имя ветки)
+
+## git checkout (имя ветик)
+
+## git merge (имя ветки)
