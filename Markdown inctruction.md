@@ -75,3 +75,7 @@
 
 Возврат к определенном commit-у
 
+## git checkout master
+
+Возврат в ветке master
+
