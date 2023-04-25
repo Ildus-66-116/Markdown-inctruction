@@ -85,6 +85,8 @@
 
 ## git branch -d (имя ветки)
 
+Удаляет ветку
+
 ## git checkout (имя ветик)
 
 ## git merge (имя ветки)
